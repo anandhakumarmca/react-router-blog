@@ -1,0 +1,33 @@
+nav {
+  background-color: white;
+  padding: 10px 0;
+}
+
+ul {
+  list-style: none;
+  display: inline-block; /* Display the list items inline */
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin: 0 10px;
+}
+
+NavLink {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+NavLink:hover {
+  color: #00bfff;
+}
+
+.top-nav {
+  background-color: #004e98;
+  padding: 10px 0;
+  text-align: center; /* Center-align the navigation items */
+}
