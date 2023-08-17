@@ -6,6 +6,7 @@ import AllCourses from "./pages/AllCourses";
 import FullStack from "./pages/FullStack";
 import DataScience from "./pages/DataScience";
 import CyberSecurity from "./pages/CyberSecurity";
+import Career from "./pages/Career";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
         <Route path="/fullstack" element={<FullStack />} />
         <Route path="/datascience" element={<DataScience />} />
         <Route path="/cybersecurity" element={<CyberSecurity />} />
+        <Route path="/career" element={<Career />} />
       </Routes>
     </Router>
   );
