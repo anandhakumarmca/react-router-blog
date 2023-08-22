@@ -1,6 +1,6 @@
 # React Router Blog
 
-Welcome to the React Router Blog! This is a web application built using React and React Router that showcases various blog posts categorized by topics.
+Welcome to the React Router Blog! This is a web application built using React and React Router that showcases various blog posts categorized by course topics.
 
 ## Sample Screenshots
 
