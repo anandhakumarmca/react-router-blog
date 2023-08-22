@@ -7,8 +7,8 @@ Welcome to the React Router Blog! This is a web application built using React an
 ![React Router Blog Screenshot 1](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/allCourse.png)
 ![React Router Blog Screenshot 2](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/fullstack.png)
 ![React Router Blog Screenshot 3](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/datascience.png)
-![React Router Blog Screenshot 3](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/cyberSecruity.png)
-![React Router Blog Screenshot 3](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/career.png)
+![React Router Blog Screenshot 4](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/cyberSecurity.png)
+![React Router Blog Screenshot 5](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/career.png)
 
 
 ## Table of Contents
