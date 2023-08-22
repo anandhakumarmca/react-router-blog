@@ -51,8 +51,6 @@ Welcome to the React Router Blog! This is a web application built using React an
 
      ```sh
     `npm install react-router-dom `
-
-  ---sh
     `npm install`
 
 4. Start the development server:
