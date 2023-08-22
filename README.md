@@ -40,24 +40,27 @@ Welcome to the React Router Blog! This is a web application built using React an
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/anandhakumarmca/react-todo-sample.git
+   git clone https://github.com/anandhakumarmca/react-router-blog.git
 
 2. Navigate to the project directory:
 
    ```sh
-    `cd react-todo-sample`
+    `cd react-router-blog`
 
 3. Install dependencies:
+
+     ```sh
+    `npm i react-router-dom `
 
    ```sh
     `npm install`
 
-4. Start the development server:
+5. Start the development server:
 
    ```sh
     `npm start`
 
-5. Open your browser and go to:
+6. Open your browser and go to:
 
    ```sh
     `http://localhost:3000`
