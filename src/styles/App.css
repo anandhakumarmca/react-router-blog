@@ -1,16 +1,18 @@
+/* Styles for the body element */
 body {
   margin: 0;
   padding: 0;
-  overflow: hidden; /* Prevent scrolling */
-  height: 100vh; /* Set height to full viewport height */
+  height: 100vh; /* Set body height to 100% of the viewport height */
   display: flex;
   flex-direction: column;
 }
 
+/* Styles for the root element (typically the main content area) */
 #root {
-  flex: 1;
+  flex: 1; /* Allow the root to grow and take available vertical space */
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 100%; /* Set root width to 100% of its container */
   text-align: center;
+  background-color: white; /* Set root background color to white */
 }

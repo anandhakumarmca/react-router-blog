@@ -1,13 +1,52 @@
+/* Styles for the main content area */
 .page-content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+  max-width: 800px; /* Limit content width to 800px */
+  margin: 0 auto; /* Center content horizontally */
+  padding: 20px; /* Add padding around the content */
 }
 
+/* Styles for h1 headings */
 h1 {
-  color: #004e98;
+  color: #004e98; /* Set heading color to a shade of blue */
 }
 
+/* Styles for paragraphs */
 p {
-  line-height: 1.6;
+  line-height: 1.6; /* Set the line height for paragraphs */
+}
+
+/* Styles for the container of course cards */
+.course-card-container {
+  display: grid; /* Use grid layout for course cards */
+  grid-template-columns: repeat(3, 1fr); /* Create 3 columns */
+  gap: 20px; /* Add gap between grid items */
+}
+
+/* Styles for individual course cards */
+.course-card {
+  border: 1px solid #ccc; /* Add border around the card */
+  background-color: white; /* Set card background color to white */
+  border-radius: 8px; /* Add rounded corners */
+  padding: 20px; /* Add padding inside the card */
+  text-align: center; /* Center-align card content */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+}
+
+/* Styles for links within course cards */
+.course-card a {
+  text-decoration: none; /* Remove underline from links */
+  color: #333; /* Set link color to a dark shade */
+}
+
+/* Styles for images within course cards */
+.course-card img {
+  max-width: 100%; /* Limit image width to container */
+  height: auto; /* Maintain image aspect ratio */
+  border-radius: 8px; /* Add rounded corners to images */
+}
+
+/* Styles for h2 headings within course cards */
+.course-card h2 {
+  margin-top: 10px; /* Add top margin to headings */
+  font-size: 1.25rem; /* Set font size for headings */
 }

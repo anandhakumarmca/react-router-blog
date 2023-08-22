@@ -1,0 +1,8 @@
+/* Styles for the navigation information component */
+.navigation-info {
+  background-color: #f1f1f1; /* Set background color to light gray */
+  padding: 10px; /* Add padding around the content */
+  text-align: center; /* Center-align the text */
+  font-weight: bold; /* Set font weight to bold */
+  color: black; /* Set text color to black */
+}

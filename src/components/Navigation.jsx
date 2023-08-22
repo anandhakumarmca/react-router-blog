@@ -2,14 +2,13 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import "../styles/Navigation.css";
 
+// Navigation component for the blog
 const Navigation = () => {
   return (
     <nav>
       <ul>
         <li>
-          <NavLink to="/">
-            All
-          </NavLink>
+          <NavLink to="/">All</NavLink>
         </li>
         <li>
           <NavLink to="/fullstack">Full Stack Development</NavLink>
