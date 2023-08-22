@@ -50,17 +50,17 @@ Welcome to the React Router Blog! This is a web application built using React an
 3. Install dependencies:
 
      ```sh
-    `npm i react-router-dom `
+    `npm install react-router-dom `
 
-   ```sh
+  ---sh
     `npm install`
 
-5. Start the development server:
+4. Start the development server:
 
    ```sh
     `npm start`
 
-6. Open your browser and go to:
+5. Open your browser and go to:
 
    ```sh
     `http://localhost:3000`
