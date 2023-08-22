@@ -4,9 +4,9 @@ Welcome to the React Router Blog! This is a web application built using React an
 
 ## Sample Screenshots
 
-![React Router Blog Screenshot 1](https://github.com/your-username/react-router-blog/blob/main/screenshots/screenshot1.png)
-![React Router Blog Screenshot 2](https://github.com/your-username/react-router-blog/blob/main/screenshots/screenshot2.png)
-![React Router Blog Screenshot 3](https://github.com/your-username/react-router-blog/blob/main/screenshots/screenshot3.png)
+![React Router Blog Screenshot 1](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/allCourse.png)
+![React Router Blog Screenshot 2](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/fullstack.png)
+![React Router Blog Screenshot 3](https://github.com/anandhakumarmca/react-router-blog/blob/2a286f3fdfbcc64156407ccc4af295f2265e3c5e/datascience.png)
 
 ## Table of Contents
 
