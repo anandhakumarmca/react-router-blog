@@ -50,3 +50,23 @@ p {
   margin-top: 10px; /* Add top margin to headings */
   font-size: 1.25rem; /* Set font size for headings */
 }
+
+/* Media query for smaller screen sizes */
+@media (max-width: 768px) {
+  /* Reduce the card container grid columns to 1 column */
+  .course-card-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  /* Adjust styles for individual course cards for smaller screens */
+  .course-card {
+    padding: 10px; /* Reduce padding for smaller cards */
+    font-size: 0.9rem; /* Reduce font size for card content */
+  }
+
+  /* Adjust styles for h2 headings within course cards for smaller screens */
+  .course-card h2 {
+    margin-top: 5px; /* Reduce top margin for headings */
+    font-size: 1rem; /* Reduce font size for headings */
+  }
+}
